@@ -9,3 +9,6 @@ src/main/resources/templates内へ作る
 
 #### コントローラーの作成
 src/mai/java/パッケージ内へ作成する
+
+#### Bean validation
+アノテーションを設定してバリデーションを設定できる
