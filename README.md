@@ -11,4 +11,5 @@ src/main/resources/templates内へ作る
 src/mai/java/パッケージ内へ作成する
 
 #### Bean validation
-アノテーションを設定してバリデーションを設定できる
+アノテーションを設定してバリデーションを設定できる  
+バリデーション用のライブラリを導入するため、pom.xmlに記述する
